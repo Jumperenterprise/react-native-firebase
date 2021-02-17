@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-firebase",
-    "slug": "react-native-firebase",
+    "name": "base-de-datos-aquafuncr",
+    "slug": "base-de-datos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.aquafuncr.basededatos"
     },
     "web": {
       "favicon": "./assets/favicon.png"
